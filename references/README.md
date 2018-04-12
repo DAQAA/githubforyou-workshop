@@ -19,5 +19,6 @@ Also see [GitHub Page Examples](github-page-examples.md)
 > Many of these projects have labels for first time submitters. Using these labels will get you better responses from the project’s members
 
 - [TestingConferences.org](http://testingconferences.org/) - A simple list of software testing conferences and workshops published collaboratively with the testing community.
+- [Des Moines Web Collective](http://dsmwebcollective.com/) - The [Des Moines Web Collective](http://dsmwebcollective.com/about/) is a collaborative, community-driven resource focused on bringing together web design and development professionals in the Des Moines metro area. Here you'll find a list of local user groups and local tech events in the Des Moines metro. The best part: You can contribute your own events!
 - [Wordpress.com Desktop App](https://github.com/Automattic/wp-calypso)
 - Babel, Node / NPM, Rails
